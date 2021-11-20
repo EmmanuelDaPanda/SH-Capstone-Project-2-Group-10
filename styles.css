@@ -72,7 +72,7 @@ h3,
 }
 
 .myactive {
-  color: rgb(216, 216, 216);
+  color: hsl(192, 88%, 68%);
 }
 #nav-group {
   display: none;
